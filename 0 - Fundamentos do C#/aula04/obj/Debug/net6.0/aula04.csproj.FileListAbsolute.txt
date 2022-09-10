@@ -1,0 +1,15 @@
+C:\Users\onata\OneDrive\Documentos\GitHub\backend.NET\0 - Fundamentos do C#\aula04\obj\Debug\net6.0\aula04.csproj.AssemblyReference.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\backend.NET\0 - Fundamentos do C#\aula04\obj\Debug\net6.0\aula04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onata\OneDrive\Documentos\GitHub\backend.NET\0 - Fundamentos do C#\aula04\obj\Debug\net6.0\aula04.AssemblyInfoInputs.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\backend.NET\0 - Fundamentos do C#\aula04\obj\Debug\net6.0\aula04.AssemblyInfo.cs
+C:\Users\onata\OneDrive\Documentos\GitHub\backend.NET\0 - Fundamentos do C#\aula04\obj\Debug\net6.0\aula04.csproj.CoreCompileInputs.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\backend.NET\0 - Fundamentos do C#\aula04\bin\Debug\net6.0\aula04.exe
+C:\Users\onata\OneDrive\Documentos\GitHub\backend.NET\0 - Fundamentos do C#\aula04\bin\Debug\net6.0\aula04.deps.json
+C:\Users\onata\OneDrive\Documentos\GitHub\backend.NET\0 - Fundamentos do C#\aula04\bin\Debug\net6.0\aula04.runtimeconfig.json
+C:\Users\onata\OneDrive\Documentos\GitHub\backend.NET\0 - Fundamentos do C#\aula04\bin\Debug\net6.0\aula04.dll
+C:\Users\onata\OneDrive\Documentos\GitHub\backend.NET\0 - Fundamentos do C#\aula04\bin\Debug\net6.0\aula04.pdb
+C:\Users\onata\OneDrive\Documentos\GitHub\backend.NET\0 - Fundamentos do C#\aula04\obj\Debug\net6.0\aula04.dll
+C:\Users\onata\OneDrive\Documentos\GitHub\backend.NET\0 - Fundamentos do C#\aula04\obj\Debug\net6.0\refint\aula04.dll
+C:\Users\onata\OneDrive\Documentos\GitHub\backend.NET\0 - Fundamentos do C#\aula04\obj\Debug\net6.0\aula04.pdb
+C:\Users\onata\OneDrive\Documentos\GitHub\backend.NET\0 - Fundamentos do C#\aula04\obj\Debug\net6.0\aula04.genruntimeconfig.cache
+C:\Users\onata\OneDrive\Documentos\GitHub\backend.NET\0 - Fundamentos do C#\aula04\obj\Debug\net6.0\ref\aula04.dll
