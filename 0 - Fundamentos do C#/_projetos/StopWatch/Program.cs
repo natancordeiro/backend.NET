@@ -33,7 +33,7 @@ namespace StopWatch
         }
 
         static void PreStart(int time) 
-        {
+        {   
             Console.Clear();
             Console.WriteLine("Ready...");
             Thread.Sleep(1000);
