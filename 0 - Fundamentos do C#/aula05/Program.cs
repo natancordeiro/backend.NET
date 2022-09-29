@@ -20,7 +20,7 @@ namespace aula05
         }
     
         static string RetornaNome(string nome, string sobrenome,int idade = 22) 
-        {//                       par. obrigatórios             Parâmetro opcional 
+        {//                       parâmetro obrigatórios        Parâmetro opcional 
             return nome + " " + sobrenome + " tem " + idade.ToString();
         }
 
